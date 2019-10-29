@@ -20,6 +20,19 @@ h3 {
 	font-size: 50px;
 	text-align: center;
 }
+h4 {
+	color:black;
+	background-color: white;
+	font-family: 'ChomskyRegular';
+   font-weight: normal;
+   font-style: normal; 
+	font-size: 250px;
+	text-align: center;
+	border-style: solid;
+	margin-top: 5in;
+	margin-right: 5in;
+	margin-left: 5in;
+}
 body {
 	font-family: Georgia;
 	font-size: 25pt;
@@ -48,10 +61,16 @@ ul {
    font-weight: normal;
    font-style: normal; 
 	font-size: 40px;
+	list-style-type: none;
+}
+li{
+	text-align: center;
+	list-style-type: none;
 }
 div.black{
 	background-color:black;
 }
+
 
 div.columns {
 	columns: 100px 3;
