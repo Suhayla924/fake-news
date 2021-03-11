@@ -1,0 +1,14 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color:#e86af0;
+}
+
+h1{
+  font-family: arial;
+  text-shadow: 5px 5px 10px blue;
+  text-align: center;
+  outline-style: dashed;
+  outline-width: 3px;
+  margin: 15px;
+}
