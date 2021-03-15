@@ -1,14 +1,62 @@
+
+div {text-align: center;
+     color: black;
+     font-family: DotGothic16;
+     font-size: 14px;
+     font-style: normal;
+     font-variant: normal;
+     font-weight: 700;
+     line-height: 24px;
+     margin: auto;
+}
+
 body {
   margin: 0;
   padding: 0;
-  background-color:#e86af0;
+  background-color:#4363FF;
 }
 
-h1{
-  font-family: arial;
-  text-shadow: 5px 5px 10px blue;
-  text-align: center;
-  outline-style: dashed;
-  outline-width: 3px;
-  margin: 15px;
+
+h1{ text-align: center;
+    color: #46E228;
+    font-family: DotGothic16, sans-serif;
+    font-size: 70px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 700;
+    line-height: 80px;
+    text-shadow: 5px 5px 10px blue;
+    text-align: center;
+    outline-style: dashed;
+    outline-width: 3px;
+    margin: 15px;
+    padding 10px;
+}
+
+
+
+p { text-align: center;
+    color: black;
+    font-family: DotGothic16, sans-serif;
+    font-size: 28px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 90;
+    line-height: 24px;
+    margin: auto;
+    padding: 10px;
+}
+
+
+h2 {text-align: center;
+     color: #46E228;
+     font-family: DotGothic16;
+     font-size: 40px;
+     font-style: normal;
+     font-variant: normal;
+     font-weight: 600;
+     line-height: 24px; 
+     text-shadow: 2px 2px 5px blue;
+     margin: auto;
+    
 }
